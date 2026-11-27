@@ -17,7 +17,6 @@ Release/
 *.idb
 *.log
 *.tlog
-*.exe
 *.exe.recipe
 *.lastbuildstate
 
